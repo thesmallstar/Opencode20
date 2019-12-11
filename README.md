@@ -1,2 +1,1 @@
-# opencodeiiita.github.io
-## we are not accepting contributions to this repository for now
+Let's make it ready for 2020 :D 
