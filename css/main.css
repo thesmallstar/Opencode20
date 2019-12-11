@@ -3146,8 +3146,8 @@ html.no-csstransitions .home-content__main {
  *
  * ------------------------------------------------------------------- */
 .s-contact {
-  padding-top: 21rem;
-  padding-bottom: 10.2rem;
+  padding-top: 10rem;
+  padding-bottom: 5rem;
   background-color: #111111;
   color: rgba(255, 255, 255, 0.3);
   position: relative;
@@ -3319,7 +3319,7 @@ html.no-csstransitions .home-content__main {
 .cl-go-top {
   z-index: 600;
   position: absolute;
-  bottom: 10.8rem;
+  bottom: 5rem;
   right: 105px;
 }
 .cl-go-top a {
